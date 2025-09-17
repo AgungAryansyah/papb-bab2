@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configs
+local.properties
+.gradle/
+.gradle-cache/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# OS / Misc
+.DS_Store
+*.log
+
+# NDK / CMake
+.cxx/
+externalNativeBuild/
+
+# Android captures
+captures/
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+
